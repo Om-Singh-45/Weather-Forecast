@@ -20,6 +20,6 @@ A Flask-based web application that uses Naïve Bayes to predict weather conditio
 - ML: Scikit-learn (Naïve Bayes)
 - Database: MySQL
 -
-![github1](https://github.com/user-attachments/assets/2299c3dc-6ea3-46c1-a025-a70741df8710)
-![github 2](https://github.com/user-attachments/assets/b3448b14-4016-42d2-9865-1d0c507e6999)
 ![github 3](https://github.com/user-attachments/assets/2f6d6d35-6259-4f23-bf04-05aee0ffdb40)
+![github 2](https://github.com/user-attachments/assets/b3448b14-4016-42d2-9865-1d0c507e6999)
+![github1](https://github.com/user-attachments/assets/2299c3dc-6ea3-46c1-a025-a70741df8710)
